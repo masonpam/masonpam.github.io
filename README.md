@@ -1,2 +1,0 @@
-# masonpam.github.io
-Portfolio
